@@ -1,5 +1,5 @@
 # Natural Tiny Shell (NT-Shell)
-Mirror of CuBeatSystems NT-Shell (https://cubeatsystems.com/ntshell/)
+Mirror of CuBeatSystems NT-Shell (https://cubeatsystems.com/ntshell/)  
 Copyright (C) 2010-2017 Shinichiro Nakamura (CuBeatSystems)
 
 
